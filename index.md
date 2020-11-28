@@ -1,5 +1,5 @@
 # Welcome to eleveneleven.space
-This is the home of user yenlegion. 
+This is the home of user YenLegion aka Peter C. 
 
 ***
 
@@ -10,7 +10,7 @@ I am not entirely sure what to include here yet, so for now this is my placehold
 
 -Bio-
 
-30yr old lifelong computer geek. I know a little about a lot of things, my goal is to know a lot about a particular few, enough to make myself marketable. Currenly dove head first into linux after being a windows guy. Over the past 2 years I have become quite proficient with macOS, but as my current mbp is out of date and un-upgradable, I figured it would be fun to turn it into a linux machine, since a lot of what I learned in macOS is transferable.
+31yr old lifelong computer geek. I know a little about a lot of things, my goal is to know a lot about a particular few, enough to make myself marketable. Currenly dove head first into linux after being a windows guy. Over the past 2 years I have become quite proficient with macOS, but as my current mbp is out of date and un-upgradable, I figured it would be fun to turn it into a linux machine, since a lot of what I learned in macOS is transferable.
 
 I am happy to talk to anyone, or collaborate on most anything. Just looking to socialize really - one of my areas of weakness!
 
